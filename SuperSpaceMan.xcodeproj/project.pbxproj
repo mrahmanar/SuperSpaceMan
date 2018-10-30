@@ -15,6 +15,7 @@
 		18E64CB22175863E00AE6C70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18E64CB02175863E00AE6C70 /* LaunchScreen.storyboard */; };
 		18E64CBA21758F7700AE6C70 /* sprites.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 18E64CB921758F7700AE6C70 /* sprites.atlas */; };
 		18E64CBC21758F8100AE6C70 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18E64CBB21758F8100AE6C70 /* Images.xcassets */; };
+		DA881AB32188190D0037F776 /* EngineExhaust.sks in Resources */ = {isa = PBXBuildFile; fileRef = DA881AB22188190D0037F776 /* EngineExhaust.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		18E64CB32175863E00AE6C70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18E64CB921758F7700AE6C70 /* sprites.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = sprites.atlas; sourceTree = SOURCE_ROOT; };
 		18E64CBB21758F8100AE6C70 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = SOURCE_ROOT; };
+		DA881AB22188190D0037F776 /* EngineExhaust.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = EngineExhaust.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				18E64CA12175863C00AE6C70 /* AppDelegate.swift */,
 				18E64CA72175863C00AE6C70 /* GameScene.swift */,
+				DA881AB22188190D0037F776 /* EngineExhaust.sks */,
 				18E64CA92175863C00AE6C70 /* GameViewController.swift */,
 				18E64CAB2175863C00AE6C70 /* Main.storyboard */,
 				18E64CBB21758F8100AE6C70 /* Images.xcassets */,
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA881AB32188190D0037F776 /* EngineExhaust.sks in Resources */,
 				18E64CAD2175863C00AE6C70 /* Main.storyboard in Resources */,
 				18E64CBC21758F8100AE6C70 /* Images.xcassets in Resources */,
 				18E64CAF2175863E00AE6C70 /* Assets.xcassets in Resources */,
